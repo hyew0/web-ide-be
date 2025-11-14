@@ -1,3 +1,4 @@
+|This project was originally created by Team GrowLog
 # web-ide-be
 
 > 구름톤 딥다이브 풀스택 13회차 백엔드 GrowLog🌱 <br>
@@ -18,10 +19,6 @@
 
 # 프로젝트 소개
 
-## 배포주소
-
-https://growlog-web-ide.vercel.app/
-
 ## 기술 스택
 | Category       | Stack                                                                                             |
 |----------------|---------------------------------------------------------------------------------------------------|
@@ -39,8 +36,9 @@ https://growlog-web-ide.vercel.app/
 
 
 ## 아키텍쳐
+<img width="1153" height="602" alt="image" src="https://github.com/user-attachments/assets/6bf3213b-ed44-451d-adfc-777ab3926050" />
 
-<img width="1701" height="852" alt="webide2 0" src="https://github.com/user-attachments/assets/8ea81588-acdb-4671-b73c-74673fd671c6" />
+
 
 
 ## 주요 기능
