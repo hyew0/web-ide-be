@@ -1,4 +1,4 @@
-|This project was originally created by Team GrowLog
+> This project was originally created by Team GrowLog
 # web-ide-be
 
 > 구름톤 딥다이브 풀스택 13회차 백엔드 GrowLog🌱 <br>
